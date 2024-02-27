@@ -4,9 +4,13 @@ This repository contains code for a virtual mouse system that allows users to co
 
 # Features:
 1.Hand Detection: Utilizes the MediaPipe library to detect hand landmarks in real-time webcam feed.
+
 2.Finger Tracking: Tracks the positions of the index finger and the thumb finger to control the mouse cursor.
+
 3.Click Operations: Performs mouse click operations based on the distance between the index finger and the thumb finger.
-4.Visual Feedback: Provides visual feedback by displaying a trail of cursor movement on the screen.
+
+4.Visual Feedback: Provides visual feedback by displaying a trail of cursor movement on the screen
+.
 5.Customizable Parameters: Users can adjust parameters such as cursor speed and click sensitivity.
 
 # Dependencies:
